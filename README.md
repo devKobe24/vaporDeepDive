@@ -23,3 +23,4 @@
 ## 📖 스터디 리스트
 - [HTTP Basics: Powering the web.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231217-HTTPBasic.md)
 - [HTTP Basics: HTTP in web browsers.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-HIWB.md)
+- [HTTP Basics: HTTP in iOS apps, HTTP 2.0](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-HTTP.md)
