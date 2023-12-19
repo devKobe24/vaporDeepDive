@@ -22,6 +22,7 @@
 | 23.12.19(화) | HTTP Basics: HTTP in iOS apps & HTTP 2.0. |
 | 23.12.19(화) | HTTP Basics: REST. |
 | 23.12.19(화) | HTTP Basics: Why use Vapor? |
+| 23.12.19(화) | Async: Intro & Async |
 
 ## 📖 스터디 리스트
 - [HTTP Basics: Powering the web.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231217-HTTPBasic.md)
@@ -29,3 +30,4 @@
 - [HTTP Basics: HTTP in iOS apps & HTTP 2.0.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-HTTP.md)
 - [HTTP Basics: REST.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-REST.md)
 - [HTTP Basics: Why use Vapor?](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-whyusevapor.md)
+- [Async: Intro & Async](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-Async.md)
