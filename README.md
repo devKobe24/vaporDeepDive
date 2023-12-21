@@ -24,6 +24,7 @@
 | 23.12.19(화) | HTTP Basics: Why use Vapor? |
 | 23.12.19(화) | Async: Intro & Async |
 | 23.12.22(금) | Async: Working with futures |
+| 23.12.22(금) | Async: SwiftNIO |
 
 ## 📖 스터디 리스트
 - [HTTP Basics: Powering the web.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231217-HTTPBasic.md)
@@ -33,3 +34,4 @@
 - [HTTP Basics: Why use Vapor?](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-whyusevapor.md)
 - [Async: Intro & Async](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231219-Async.md)
 - [Async: Working with futures](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/2023-12-22-working-with-futures.md)
+- [Async: SwiftNIO](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/2023-12-22-SwiftNIO.md)
