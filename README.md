@@ -26,6 +26,7 @@
 | 23.12.22(금) | Async: Working with futures |
 | 23.12.22(금) | Async: SwiftNIO |
 | 23.12.22(금) | Fluent & Persisting Models: Fluent. |
+| 23.12.23(토) | Fluent & Persisting Models: Acronyms. |
 
 ## 📖 스터디 리스트
 - [HTTP Basics: Powering the web.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/231217-HTTPBasic.md)
@@ -37,3 +38,4 @@
 - [Async: Working with futures](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/2023-12-22-working-with-futures.md)
 - [Async: SwiftNIO](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/2023-12-22-SwiftNIO.md)
 - [Fluent & Persisting Models: Fluent.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/2023-12-22-Fluent.md)
+- [Fluent & Persisting Models: Acronyms.](https://github.com/devKobe24/vaporDeepDive/blob/main/contents/2023-12-23-Acronyms.md)
